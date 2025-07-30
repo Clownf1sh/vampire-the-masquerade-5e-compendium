@@ -1,0 +1,68 @@
+{
+  "id": "vampire-the-masquerade-5e-compendium",
+  "title": "Vampire the Masquerade 5e Compendium",
+  "version": "1.0.0",
+  "manifest": "https://github.com/Clownf1sh/vampire-the-masquerade-5e-compendium/releases/latest/download/module.json",
+  "download": "https://github.com/Clownf1sh/vampire-the-masquerade-5e-compendium/releases/download/1.0.0/module.zip",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "13"
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "vtm5e",
+        "type": "system",
+        "compatibility": {}
+      }
+    ]
+  },
+  "packs": [
+    {
+      "name": "clans",
+      "label": "Clans",
+      "path": "packs/clans",
+      "type": "Item",
+      "system": "vtm5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "disciplines",
+      "label": "Disciplines",
+      "path": "packs/disciplines",
+      "type": "Item",
+      "system": "vtm5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "blood-potency-predator-type",
+      "label": "Blood Potency & Predator Type",
+      "path": "packs/blood-potency-predator-type",
+      "type": "Item",
+      "system": "vtm5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "advantages-flaws",
+      "label": "Advantages & Flaws",
+      "path": "packs/advantages-flaws",
+      "type": "Item",
+      "system": "vtm5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ],
+  "description": "",
+  "flags": {}
+}

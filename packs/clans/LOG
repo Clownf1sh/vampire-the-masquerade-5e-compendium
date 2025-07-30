@@ -1,0 +1,8 @@
+2025/07/30-15:33:40.894 2b7c Recovering log #71
+2025/07/30-15:33:40.897 2b7c Delete type=0 #71
+2025/07/30-15:33:40.897 2b7c Delete type=3 #69
+2025/07/30-15:45:20.372 185c Level-0 table #76: started
+2025/07/30-15:45:20.372 185c Level-0 table #76: 0 bytes OK
+2025/07/30-15:45:20.373 185c Delete type=0 #74
+2025/07/30-15:45:20.381 185c Manual compaction at level-0 from '!items!60LjioYLgLu4FWtX' @ 72057594037927935 : 1 .. '!items!jX7xP5LmQB47uRii' @ 0 : 0; will stop at (end)
+2025/07/30-15:45:20.382 185c Manual compaction at level-1 from '!items!60LjioYLgLu4FWtX' @ 72057594037927935 : 1 .. '!items!jX7xP5LmQB47uRii' @ 0 : 0; will stop at (end)
