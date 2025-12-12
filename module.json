@@ -11,7 +11,7 @@
   "relationships": {
     "systems": [
       {
-        "id": "vtm5e",
+        "id": "wod5e",
         "type": "system",
         "compatibility": {}
       }
@@ -23,7 +23,7 @@
       "label": "Clans",
       "path": "packs/clans",
       "type": "Item",
-      "system": "vtm5e",
+      "system": "wod5e",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
@@ -34,7 +34,7 @@
       "label": "Disciplines",
       "path": "packs/disciplines",
       "type": "Item",
-      "system": "vtm5e",
+      "system": "wod5e",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
@@ -45,7 +45,7 @@
       "label": "Blood Potency & Predator Type",
       "path": "packs/blood-potency-predator-type",
       "type": "Item",
-      "system": "vtm5e",
+      "system": "wod5e",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
@@ -56,7 +56,7 @@
       "label": "Advantages & Flaws",
       "path": "packs/advantages-flaws",
       "type": "Item",
-      "system": "vtm5e",
+      "system": "wod5e",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
